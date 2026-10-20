@@ -133,6 +133,46 @@ export const siteConfig = {
       alt: "Neat internal corridor at Ojubanire Villa",
       caption: "Neat internal corridor",
     },
+    {
+      src: "/images/ojubanire-1.jpeg",
+      alt: "Double bedroom with purple patterned bedding and marble flooring at Ojubanire Villa",
+      caption: "Double bedroom with ceiling lighting",
+    },
+    {
+      src: "/images/ojubanire-2.jpeg",
+      alt: "Double bedroom with patterned bedding and decorative wall mirror at Ojubanire Villa",
+      caption: "Double bedroom with wall mirror",
+    },
+    {
+      src: "/images/ojubanire-3.jpeg",
+      alt: "Double bedroom with windows, purple bedding and marble flooring at Ojubanire Villa",
+      caption: "Double bedroom with windows",
+    },
+    {
+      src: "/images/ojubanire-4.jpeg",
+      alt: "Bedroom with grey bedding and illuminated Ojubanire mirror at Ojubanire Villa",
+      caption: "Bedroom with illuminated mirror",
+    },
+    {
+      src: "/images/ojubanire-5.jpeg",
+      alt: "Living room with leather sofas, wall-mounted TV and chandelier at Ojubanire Villa",
+      caption: "Living room with wall TV",
+    },
+    {
+      src: "/images/ojubanire-6.jpeg",
+      alt: "Six-seater dining table with leather chairs at Ojubanire Villa",
+      caption: "Six-seater dining area",
+    },
+    {
+      src: "/images/ojubanire-7.jpeg",
+      alt: "Bedroom with grey bedding, dressing table and illuminated mirror at Ojubanire Villa",
+      caption: "Bedroom with dressing table",
+    },
+    {
+      src: "/images/ojubanire-8.jpeg",
+      alt: "Dining area with mirror wall feature and six chairs at Ojubanire Villa",
+      caption: "Dining area with mirror wall",
+    },
   ] as GalleryPhoto[],
   faqs: [
     {
