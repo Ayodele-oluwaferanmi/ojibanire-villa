@@ -81,58 +81,16 @@ export const siteConfig = {
   ] as const,
   images: {
     hero: {
-      src: "/images/hero.jpeg",
-      alt: "Living room interior at Ojubanire Villa",
+      src: "/images/ojubanire-5.jpeg",
+      alt: "Living room with leather sofas, wall-mounted TV and chandelier at Ojubanire Villa",
     },
     about: {
-      src: "/images/sitting-room.jpeg",
-      alt: "Sitting room at Ojubanire Villa",
+      src: "/images/ojubanire-2.jpeg",
+      alt: "Double bedroom with patterned bedding and decorative wall mirror at Ojubanire Villa",
     },
   },
-  // Photographs supplied for Ojubanire Villa. Phase exteriors are tagged by location.
+  // Gallery uses only ojubanire-1.jpeg to ojubanire-8.jpeg (all curtain-free).
   gallery: [
-    {
-      src: "/images/phase-1-exterior.jpeg",
-      alt: "Exterior of Ojubanire Villa Phase 1 at 2 Oluyinka Street, off Oreta Road",
-      caption: "Phase 1 exterior",
-      location: "phase-1",
-    },
-    {
-      src: "/images/phase-2-exterior.jpeg",
-      alt: "Exterior of Ojubanire Villa Phase 2 at 1 Ups Estate, Morekete Oreta Road",
-      caption: "Phase 2 exterior",
-      location: "phase-2",
-    },
-    {
-      src: "/images/hero.jpeg",
-      alt: "Bright living area at Ojubanire Villa",
-      caption: "Bright living area",
-    },
-    {
-      src: "/images/sitting-room.jpeg",
-      alt: "Comfortable sitting room at Ojubanire Villa",
-      caption: "Comfortable sitting room",
-    },
-    {
-      src: "/images/bedroom.jpeg",
-      alt: "Restful bedroom at Ojubanire Villa",
-      caption: "Restful bedroom",
-    },
-    {
-      src: "/images/kitchen.jpeg",
-      alt: "Functional kitchen at Ojubanire Villa",
-      caption: "Functional kitchen",
-    },
-    {
-      src: "/images/dinning.jpeg",
-      alt: "Dining space at Ojubanire Villa",
-      caption: "Dining space",
-    },
-    {
-      src: "/images/corridor.jpeg",
-      alt: "Neat internal corridor at Ojubanire Villa",
-      caption: "Neat internal corridor",
-    },
     {
       src: "/images/ojubanire-1.jpeg",
       alt: "Double bedroom with purple patterned bedding and marble flooring at Ojubanire Villa",
@@ -211,7 +169,7 @@ export const siteConfig = {
     description:
       "Discover Ojubanire Villa, a short-let apartment destination in Igbogbo, Ikorodu, Lagos, with two locations, solar lighting, standby power, and security.",
     // Set this to a supplied, share-ready image when one is available.
-    openGraphImage: "/images/hero.jpeg",
+    openGraphImage: "/images/ojubanire-5.jpeg",
   },
 } as const;
 
